@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #FFC1CC;
+    color: white;
+}
+
+.find{
+    background-color: #FFC1CC;
+}
+
+.jb{
+    padding: 100px 100px 100px 170px;
+    background-color: #FFC1CC    ;
+    color: white;
+    
+}
+
+#bigbut{
+    background-color: #a94064;
+    color: aliceblue;
+}
+
+.top-sox{
+    width: 38%;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
+
+
+
+#row-a{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#row-b{
+    padding-top: 0;
+    padding-bottom: 45px;
+}
+
+.footer{
+    padding-top: 65px;
+    padding-bottom: 50px;
+    background-color: #b3446b;
+    color: rgb(227, 235, 241);
+    font-size: medium;
+    text-align: center;
+}
